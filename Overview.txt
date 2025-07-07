@@ -1,0 +1,25 @@
+Currency Converter using Python (Tkinter GUI)
+This project is a desktop GUI application built using Python and Tkinter that allows users to convert currency amounts from one type to another using static exchange rates.
+
+Key Features:
+- User-friendly graphical interface
+- Input field to enter the amount
+- Dropdown menus to choose 'From' and 'To' currencies
+- Visual arrow between currency selectors to indicate conversion direction
+- Responsive design that adjusts to screen size (mobile/tablet/laptop)
+- Displays conversion result clearly below the Convert button
+
+User Interface Details:
+- The main window features a title "Currency Converter" and a heading "Enter the amount"
+- Below the input field, currency dropdowns are aligned side by side with a directional arrow (→) in between
+- A Convert button performs the conversion when clicked
+- The result is displayed just below the button in a bold font
+
+Technical Implementation:
+- Static exchange rates are stored in a dictionary (e.g., USD, INR, EUR, JPY, GBP)
+- The app converts the amount to USD as an intermediate step, then to the target currency
+- Tkinter widgets like Label, Entry, Button, and ttk.Combobox are used
+- Basic styling is applied using font size, background colors, and layout options
+- Screen width is detected using winfo_screenwidth() to adjust font sizes and widget dimensions accordingly
+
+This project demonstrates GUI design, layout management, input handling, and basic currency conversion logic in Python.
