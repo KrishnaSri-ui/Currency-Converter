@@ -13,7 +13,8 @@ A simple and elegant desktop application to convert currency values between majo
 
 ---
 ## Explore it here
-  Click: currency-converter-py.netlify.app
+   Demo:currency-converter-py.netlify.app(https://currency-converter-py.netlify.app)
+
    
 
 ---
