@@ -12,16 +12,16 @@ A simple and elegant desktop application to convert currency values between majo
 - Minimal and clean layout using **`ttk.Combobox`, `Frame`, and `Label`**
 
 ---
-## Live Demo
-   watch in demo.mp4
 
-   
+##  How to Run
 
+1. Make sure **Python 3** is installed: python --version
+2. Download or clone the project.
+3. Open a terminal in the project folder and run:
+python currency_converter.py
+4. ✅ The GUI will open — enter the amount, choose currencies, and click **Convert**.
+Let me know if you want a version for .exe users too!
 ---
-
-
-
-
 
 ##  Technologies Used
 
@@ -32,10 +32,6 @@ A simple and elegant desktop application to convert currency values between majo
 - **Responsive GUI logic** via `winfo_screenwidth()`
 
 ---
-
-
-
-
 
 ## Developer
 
