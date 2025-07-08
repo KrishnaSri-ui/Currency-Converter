@@ -19,7 +19,7 @@ A simple and elegant desktop application to convert currency values between majo
 2. Download or clone the project.
 3. Open a terminal in the project folder and run:
 python currency_converter.py
-4. ✅ The GUI will open — enter the amount, choose currencies, and click **Convert**.
+4. The GUI will open — enter the amount, choose currencies, and click **Convert**.
 Let me know if you want a version for .exe users too!
 ---
 
