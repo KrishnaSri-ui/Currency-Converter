@@ -19,6 +19,13 @@ A simple and elegant desktop application to convert currency values between majo
 
 ---
 
+## 🎥 Screen Recording
+
+> Watch the live demo of how this currency converter works:
+
+📹 **[Click here to view screen recording]("C:\Users\KRISHNA\Documents\Screen Recording 2025-07-08 134049.mp4")**  
+
+---
 
 
 
