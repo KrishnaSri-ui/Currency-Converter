@@ -12,20 +12,14 @@ A simple and elegant desktop application to convert currency values between majo
 - Minimal and clean layout using **`ttk.Combobox`, `Frame`, and `Label`**
 
 ---
-## Explore it here
-   Demo:(https://currency-converter-py.netlify.app)
+## Live Demo
+   watch in demo.mp4
 
    
 
 ---
 
-## 🎥 Screen Recording
 
-> Watch the live demo of how this currency converter works:
-
-📹 **[Click here to view screen recording]("C:\Users\KRISHNA\Documents\Screen Recording 2025-07-08 134049.mp4")**  
-
----
 
 
 
